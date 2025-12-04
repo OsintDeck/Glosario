@@ -1,6 +1,6 @@
 ## **Listado de términos clave para glosario**
 
-### **Conceptos OSINT y Ciberseguridad**
+### <span style="color: #3b82f6;">Conceptos OSINT y Ciberseguridad</span>
 
 | Término | Definición |
 | :--- | :--- |
@@ -33,7 +33,7 @@
 | **Estabilidad del sistema** | Capacidad del software para funcionar correctamente de manera continua, sin fallos, cuelgues o interrupciones inesperadas. |
 | **Vulnerabilidades** | Fallos o debilidades en un sistema informático que pueden ser explotados por atacantes para comprometer la seguridad. |
 
-### **Tecnologías utilizadas**
+### <span style="color: #3b82f6;">Tecnologías utilizadas</span>
 
 | Término | Definición |
 | :--- | :--- |
@@ -59,7 +59,7 @@
 | **Composer** | Gestor de dependencias para PHP (mencionado en el proyecto como una alternativa que se evaluó pero se descartó). |
 | **CDN (Content Delivery Network)** | Red de servidores distribuidos globalmente que entregan contenido (imágenes, scripts) al usuario desde la ubicación más cercana para acelerar la carga. |
 
-### **Infraestructura OSINT Deck**
+### <span style="color: #3b82f6;">Infraestructura OSINT Deck</span>
 
 | Término | Definición |
 | :--- | :--- |
@@ -89,7 +89,7 @@
 | **URL (Uniform Resource Locator)** | Dirección completa de un recurso específico en internet (ej. https://www.sitio.com/pagina.html). |
 | **Coordenadas geográficas** | Datos numéricos (latitud y longitud) que permiten ubicar un punto exacto en el mapa terrestre. |
 
-### **Metodología y enfoque académico**
+### <span style="color: #3b82f6;">Metodología y enfoque académico</span>
 
 | Término | Definición |
 | :--- | :--- |
@@ -114,7 +114,7 @@
 | **Segmentación** | División de un grupo grande (como los usuarios) en subgrupos más pequeños con características similares para analizarlos mejor. |
 | **Interpretación de resultados** | Fase final donde se da sentido a los datos obtenidos en la investigación para extraer conclusiones. |
 
-### **Partes del TFI / Documentación**
+### <span style="color: #3b82f6;">Partes del TFI / Documentación</span>
 
 | Término | Definición |
 | :--- | :--- |
@@ -133,7 +133,7 @@
 | **README** | Archivo de texto ("Léeme") que suele ser la portada de un proyecto de software, explicando qué es, cómo se instala y cómo se usa. |
 | **Despliegue** | Proceso de poner el software en funcionamiento en un entorno real (servidor) para que los usuarios puedan utilizarlo. |
 
-### **Perfiles de usuario**
+### <span style="color: #3b82f6;">Perfiles de usuario</span>
 
 | Término | Definición |
 | :--- | :--- |
